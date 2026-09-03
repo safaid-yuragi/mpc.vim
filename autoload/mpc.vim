@@ -1,9 +1,9 @@
 " Name:         autoload/mpc.vim
 " Description: A modern vim plugin for MPD control via mpc
-" Maintainer:  rock-db (https://github.com/rock-db)
+" Maintainer:  safaid_yuragi (https://github.com/safaid_yuragi)
 " Version:     1.0
 " License:     MIT
-" URL:         https://github.com/rock-db/mpc.vim
+" URL:         https://github.com/safaid_yuragi/mpc.vim
 
 " ============================================================================
 " Configuration & Constants
